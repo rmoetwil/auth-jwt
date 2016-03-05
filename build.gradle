@@ -37,7 +37,7 @@ dependencies {
     compile 'org.springframework.security:spring-security-web:4.0.4.RELEASE'
     compile 'com.nimbusds:nimbus-jose-jwt:4.12'
     compile 'io.springfox:springfox-swagger2:2.4.0'
-    compile 'io.springfox:springfox-swagger2:2.4.0'
+    compile 'io.springfox:springfox-swagger-ui:2.4.0'
     compile 'org.apache.commons:commons-lang3:3.4'
     compile 'commons-codec:commons-codec:1.10'
 
