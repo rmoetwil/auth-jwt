@@ -23,7 +23,6 @@ import static org.junit.Assert.fail;
  * Authentication controller System Test.
  *
  * @author Ronald Moetwil
- * @since 1.0
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = Application.class)

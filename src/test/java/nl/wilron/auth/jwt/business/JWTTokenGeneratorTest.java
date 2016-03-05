@@ -29,7 +29,6 @@ import static org.junit.Assert.assertTrue;
  * JWTTokenGenerator unit test class.
  *
  * @author Ronald Moetwil
- * @since 1.0
  */
 public class JWTTokenGeneratorTest {
 

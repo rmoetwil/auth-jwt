@@ -23,7 +23,6 @@ import static org.mockito.Mockito.when;
  * Authentication and Authorisation Unit test class.
  *
  * @author Ronald Moetwil
- * @since 1.0
  */
 @RunWith(MockitoJUnitRunner.class)
 public class AuthBusinessTest {
